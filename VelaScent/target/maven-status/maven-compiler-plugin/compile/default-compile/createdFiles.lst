@@ -1,0 +1,7 @@
+basedatos\ServletEliminar.class
+com\karinahx\velascent\JakartaRestConfiguration.class
+com\karinahx\velascent\resources\JakartaEE8Resource.class
+com\PruebaConexion.class
+basedatos\CrudServlet.class
+com\Conexion.class
+com\ServletRegistro.class
